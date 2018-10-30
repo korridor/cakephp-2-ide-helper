@@ -1,0 +1,11 @@
+{
+    "name": "korridor/cakephp-2-ide-helper",
+    "description": "IDE helper for CakePHP 2",
+    "keywords": ["cakephp", "cakephp2", "plugin", "ide", "helper", "phpstorm"],
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5"
+    }
+}
