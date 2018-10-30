@@ -44,7 +44,7 @@ class IdeHelperShell extends AppShell
 
         $this->writeFile();
 
-        $this->out('Saved file: app/');
+        $this->out('Saved file: '.$this->path.'/'.$this->filename);
     }
 
     private function generateIdeHelpersForModels()
