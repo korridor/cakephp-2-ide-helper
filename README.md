@@ -1,5 +1,7 @@
 # CakePHP 2 IDE Helper Generator
 
+**Warning: This repository is no longer being maintained!**
+
 The CakePHP 2 IDE Helper Generator Plugin creates an IDE helper file that helps your IDE
 with automatic suggestions.
 
